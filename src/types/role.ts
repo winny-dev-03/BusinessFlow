@@ -1,0 +1,1 @@
+export type BusinessFlowRole = "business-owner" | "customer";
